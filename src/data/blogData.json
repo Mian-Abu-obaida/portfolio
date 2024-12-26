@@ -1,0 +1,70 @@
+
+
+{
+    "articles": [
+      {
+        "id": 1,
+        "imageName": "slider-1.jpg",
+        "title": "How to generate leads with PPC in your business?",
+        "description": "Lorem ipsum dolor sit amet consectetur. Risus neque suspendisse sed arcu tortor mattis diam in. Gravida convallis nam ornare elementum commodo euismod.",
+        "content": "Building trust in the workplace is essential for a positive and productive work environment...",
+        "date": "25 Aug 2023"
+      },
+      {
+        "id": 2,
+        "imageName": "slider-2.jpg",
+        "title": "What are your customers is looking for?",
+        "description": "Lorem ipsum dolor sit amet consectetur. Risus neque suspendisse sed arcu tortor mattis diam in. Gravida convallis nam ornare elementum commodo euismod.",
+        "content": "Another interesting article content goes here...",
+        "date": "26 Aug 2023"
+      },
+      {
+        "id": 3,
+        "title": "Designed with Love - There will be transition paths.",
+        "imageName": "slider-3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur. Risus neque suspendisse sed arcu tortor mattis diam in. Gravida convallis nam ornare elementum commodo euismod.",
+        "content": "Design is not just what it looks like and feels like. Design is how it works...",
+        "date": "27 Aug 2023"
+      },
+      {
+        "id": 4,
+        "title": "How to generate leads with PPC in your business?",
+        "imageName": "slider-4.png",
+        "description": "Lorem ipsum dolor sit amet consectetur. Risus neque suspendisse sed arcu tortor mattis diam in. Gravida convallis nam ornare elementum commodo euismod.",
+        "content": "Design is not just what it looks like and feels like. Design is how it works...",
+        "date": "28 Aug 2023"
+      },
+      {
+        "id": 5,
+        "imageName": "slider-1.jpg",
+        "title": "How to generate leads with PPC in your business?",
+        "description": "Lorem ipsum dolor sit amet consectetur. Risus neque suspendisse sed arcu tortor mattis diam in. Gravida convallis nam ornare elementum commodo euismod.",
+        "content": "Building trust in the workplace is essential for a positive and productive work environment...",
+        "date": "25 Aug 2023"
+      },
+      {
+        "id": 6,
+        "imageName": "slider-2.jpg",
+        "title": "What are your customers is looking for?",
+        "description": "Lorem ipsum dolor sit amet consectetur. Risus neque suspendisse sed arcu tortor mattis diam in. Gravida convallis nam ornare elementum commodo euismod.",
+        "content": "Another interesting article content goes here...",
+        "date": "26 Aug 2023"
+      },
+      {
+        "id": 7,
+        "title": "Designed with Love - There will be transition paths.",
+        "imageName": "slider-3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur. Risus neque suspendisse sed arcu tortor mattis diam in. Gravida convallis nam ornare elementum commodo euismod.",
+        "content": "Design is not just what it looks like and feels like. Design is how it works...",
+        "date": "27 Aug 2023"
+      },
+      {
+        "id": 8,
+        "title": "How to generate leads with PPC in your business?",
+        "imageName": "slider-4.png",
+        "description": "Lorem ipsum dolor sit amet consectetur. Risus neque suspendisse sed arcu tortor mattis diam in. Gravida convallis nam ornare elementum commodo euismod.",
+        "content": "Design is not just what it looks like and feels like. Design is how it works...",
+        "date": "28 Aug 2023"
+      }
+    ]
+  }

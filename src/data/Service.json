@@ -1,0 +1,37 @@
+{   
+    "development": {
+      "id": "Development",
+      "services": [
+        {
+          "title": "Frontend",
+          "description": "Enterprises and startups trust frontend developers at graphy to deliver performance-focused and usable interfaces for the web and mobile apps."
+        },
+        {
+          "title": "Technical Seo",
+          "description": "We conduct SEO audits and implement the necessary changes on websites and ecommerce to rank higher on Google and other SERPs."
+        },
+        {
+          "title": "Web Speed Optimization",
+          "description": "We test, audit, and improve the performance of websites and apps, making sure both users and search crawlers are satisfied."
+        }
+      ]
+    },
+    "design": {
+      "id": "Design",
+      "services": [
+        {
+          "title": "UI/UX Design",
+          "description": "Creating intuitive and beautiful user interfaces that enhance user experience."
+        }
+      ]
+    },
+    "businessGrowth": {
+      "id": "Business Growth",
+      "services": [
+        {
+          "title": "Marketing Strategy",
+          "description": "Developing comprehensive marketing strategies to grow your business."
+        }
+      ]
+    }
+}
