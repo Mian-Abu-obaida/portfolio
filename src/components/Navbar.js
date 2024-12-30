@@ -1,10 +1,14 @@
-import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import { Link, useLocation } from 'react-router-dom';
 import { HiMenu } from 'react-icons/hi';
 import { IoClose } from 'react-icons/io5';
 import close from '../assets/images/nav-cross.svg';
 
 const Navbar = () => {
+  const { pathname } = useLocation();
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
   const [isOpen, setIsOpen] = useState(false);
 
   return (

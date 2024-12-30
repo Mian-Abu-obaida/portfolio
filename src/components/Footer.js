@@ -1,5 +1,10 @@
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom'; 
+import { useEffect } from 'react';
 const Footer = () => {
+  const { pathname } = useLocation();
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
  return (
    <footer className="bg-[#CCFF00] py-8">
      <div className="container mx-auto px-6">

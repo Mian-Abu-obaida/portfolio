@@ -10,6 +10,7 @@ import BlogPost from './components/BlogPost';
 import Articles from './components/Articles';
 import ProjectDetail from './components/ProjectDetail';
 import AllProjects from './components/AllProjects';
+import ContactUs from './pages/ContactUs';
 function App() {
   return (
     <Router>
@@ -23,6 +24,7 @@ function App() {
             <Route path="/services" element={<Services />} />
             <Route path="/branding" element={<Branding />} />
             <Route path="/projects" element={<Projects />} />
+            <Route path="/contact" element={<ContactUs />} />
             <Route path="/blog/:slug" element={<BlogPost />} />
             <Route path="/articles" element={<Articles />} />
             <Route path="/project/:projectId" element={<ProjectDetail />} />
